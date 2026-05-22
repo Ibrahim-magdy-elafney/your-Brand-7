@@ -167,17 +167,6 @@ button:hover {
 
 }
 
-.header-flex {
-
-    display: flex;
-
-    align-items: center;
-
-    gap: 2px;
-
-
-}
-
 .section-flex {
 
     display: flex;
@@ -223,8 +212,8 @@ img {
 
 .cup-of-coffee {
 
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     margin: 0;
     padding: 0;
     object-fit: contain;
